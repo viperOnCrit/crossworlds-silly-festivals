@@ -316,5 +316,23 @@
     "Namespace": "Common_Festa",
     "Key": "ui_festa_team_lottery",
     "Value": "stealing your favorite color..."
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "news_information_ranking_final",
+    "Value": "determing your social credit score"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_Festa",
+    "Key": "ui_festa_point_total",
+    "Value": "SOCIAL CREDIT"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "ui_festa_point_total",
+    "Value": "Social Credit"
   }
 ]
