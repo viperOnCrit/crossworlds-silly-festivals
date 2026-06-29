@@ -1,0 +1,320 @@
+[
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_guide_07",
+    "Value": "\u002B10pts to the team with the most crashes!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_guide_04",
+    "Value": "\u002B10pts to the team who kills the most!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_guide_03",
+    "Value": "\u002B10pts to the team who gets stick drift first!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_guide_02",
+    "Value": "\u002B10pts to the team thats the greediest!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_guide_08",
+    "Value": "\u002B10pts to the team that actually hit the boost pads!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_guide_01",
+    "Value": "\u002B10pts to the team who touches each other the most!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_guide_05",
+    "Value": "\u002B10pts to the team who makes an initial-d reference!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_ParkBonus",
+    "Key": "park_bonus_result_02 ",
+    "Value": "\u002B10 points for being greedy"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_ParkBonus",
+    "Key": "park_bonus_result_04",
+    "Value": "tap your teammates"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_guide_13",
+    "Value": "\u002B10pts to the team that kept the most odd-numbered positions! (this exists?!)"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_guide_10",
+    "Value": "\u002B10pts to the team with the most drift spam!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_team_gauge_01",
+    "Value": "touch your team mates!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_team_gauge_07",
+    "Value": "Crash into others!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_team_gauge_06",
+    "Value": "ROTATION"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_team_gauge_04",
+    "Value": "KILL"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_team_gauge_05",
+    "Value": "drift"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_team_gauge_03",
+    "Value": "get tricky!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_team_gauge_02",
+    "Value": "MONEY"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_team_gauge_11",
+    "Value": "slipstream!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_team_gauge_12",
+    "Value": "do perfect boosts!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_team_gauge_13",
+    "Value": "be odd"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_rule_name_01",
+    "Value": "basically stock"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_name_04",
+    "Value": "KILL"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_name_03",
+    "Value": "spam tricks!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_name_02",
+    "Value": "MONEY"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_name_05",
+    "Value": "drift"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_name_06",
+    "Value": "SPIIIIN"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_name_07",
+    "Value": "Crash into others!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_name_08",
+    "Value": "Use the map!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_name_09",
+    "Value": "KILL"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_rule_name_02",
+    "Value": "greed mode"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_rule_name_03",
+    "Value": "stick destroy"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_rule_name_04",
+    "Value": "War"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_rule_name_05",
+    "Value": "inital D"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_rule_name_06",
+    "Value": "spins"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_rule_name_07",
+    "Value": "touching everyone"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaEvent",
+    "Key": "festaevent_name_101",
+    "Value": "LOCK THE FUCK IN"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaEvent",
+    "Key": "festaevent_guide_101",
+    "Value": "GET FIRST YOU CAN BE DONE FASTER"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Option_RaceOption",
+    "Key": "option_race_title_rentalplate",
+    "Value": "AUTO SELECT RENTAL PLATES (SAVE YOURSELF)"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_GadgetPlate",
+    "Key": "gadgetplate_name_festa",
+    "Value": "FREE PLATE"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "news_rental_plate",
+    "Value": "your freebie (that no one really uses becasue they can make better)"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_rental_plate_guide_title",
+    "Value": "YOU FORGOT TO TURN OFF THE SETTING"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "news_team_gauge",
+    "Value": "how to do it"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_Festa",
+    "Key": "festa_result_complete",
+    "Value": "YOUR DONE"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_Festa",
+    "Key": "festa_result_complete_details",
+    "Value": "Now you can close the game for another month!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_Festa",
+    "Key": "ui_festa_friendbonus",
+    "Value": "Fren Bonus"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "news_point_bonus",
+    "Value": "extra points to hit out of nowhere"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_Festa",
+    "Key": "ui_festa_leadtime_ranking",
+    "Value": "the hard carry"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_RewardWindow",
+    "Key": "RewardWindow_header12",
+    "Value": "you got a thing"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_rule_name_08",
+    "Value": "sonic forces"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_name_01",
+    "Value": "Touch Your Freinds!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_Festa",
+    "Key": "ui_festa_rule",
+    "Value": "when to take a break"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_Festa",
+    "Key": "ui_festa_team_lottery",
+    "Value": "stealing your favorite color..."
+  }
+]
