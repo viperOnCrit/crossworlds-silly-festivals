@@ -43,18 +43,6 @@
   },
   {
     "Language": "en",
-    "Namespace": "DB_ParkBonus",
-    "Key": "park_bonus_result_02 ",
-    "Value": "\u002B10 points for being greedy"
-  },
-  {
-    "Language": "en",
-    "Namespace": "DB_ParkBonus",
-    "Key": "park_bonus_result_04",
-    "Value": "tap your teammates"
-  },
-  {
-    "Language": "en",
     "Namespace": "DB_FestaBonus",
     "Key": "festa_bonus_guide_13",
     "Value": "\u002B10pts to the team that kept the most odd-numbered positions! (this exists?!)"
@@ -141,7 +129,7 @@
     "Language": "en",
     "Namespace": "DB_FestaBonus",
     "Key": "festa_bonus_name_03",
-    "Value": "spam tricks!"
+    "Value": "do a flip!"
   },
   {
     "Language": "en",
@@ -189,7 +177,7 @@
     "Language": "en",
     "Namespace": "DB_FestaBonus",
     "Key": "festa_rule_name_03",
-    "Value": "stick destroy"
+    "Value": "riders 4"
   },
   {
     "Language": "en",
@@ -334,5 +322,17 @@
     "Namespace": "DB_News",
     "Key": "ui_festa_point_total",
     "Value": "Social Credit"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_bonus_guide_06",
+    "Value": "\u002B10pts to the team who got moition sick!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_point_reward_Extnd08",
+    "Value": "the turtle pass"
   }
 ]
