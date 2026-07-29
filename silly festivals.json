@@ -334,5 +334,11 @@
     "Namespace": "DB_FestaData",
     "Key": "festa_point_reward_Extnd08",
     "Value": "the turtle pass"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_RewardWindow",
+    "Key": "RewardWindow_header13",
+    "Value": "wow you won two in a row"
   }
 ]
