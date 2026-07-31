@@ -340,5 +340,11 @@
     "Namespace": "Common_RewardWindow",
     "Key": "RewardWindow_header13",
     "Value": "wow you won two in a row"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_Festa",
+    "Key": "ui_festa_bonus_festarule",
+    "Value": "the REAL hard carry"
   }
 ]
