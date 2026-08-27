@@ -346,5 +346,71 @@
     "Namespace": "Common_Festa",
     "Key": "ui_festa_bonus_festarule",
     "Value": "the REAL hard carry"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "news_rule_supplement_specialitem",
+    "Value": "the forcast is HELL"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "festa_winning_reward",
+    "Value": "back 2 back wins"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "festa_ranking_reward",
+    "Value": "the grinding nightmare"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "festa_ranking_reward_01",
+    "Value": "never turned the game off"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "festa_ranking_reward_03",
+    "Value": "grinded hard"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_Title",
+    "Key": "honortitle_legend_top100",
+    "Value": "no lifed"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_other_reward_Extnd21",
+    "Value": "Axel when he wins"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_friendranking_Extnd21",
+    "Value": "laugh at freinds"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_point_reward_Extnd21",
+    "Value": "AxelPass"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_race_rule_Extnd21",
+    "Value": "Axel CRAZY rules"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "festa_ranking_reward_02",
+    "Value": "no lifed"
   }
 ]
