@@ -412,5 +412,35 @@
     "Namespace": "DB_News",
     "Key": "festa_ranking_reward_02",
     "Value": "no lifed"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_other_reward_Extnd20",
+    "Value": "FC this event i dare you"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_friendranking_Extnd20",
+    "Value": "compare to fellow monkeys"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_worldranking_Extnd20",
+    "Value": "look at \u0022alpha\u0022 monkey"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_point_reward_Extnd20",
+    "Value": "the rythem monkey pass"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_race_rule_Extnd20",
+    "Value": "No s\u00E9, tengo reglas de pereza y mono"
   }
 ]
