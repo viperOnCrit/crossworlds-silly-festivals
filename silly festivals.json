@@ -448,5 +448,23 @@
     "Namespace": "DB_FestaBonus",
     "Key": "festa_rule_name_09",
     "Value": "turbo ultra hell"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_Festa",
+    "Key": "ui_festa_bonus_top3",
+    "Value": "HAHA 3"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_Festa",
+    "Key": "ui_festa_rule_win_streak",
+    "Value": "Combo: {0}"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_Festa",
+    "Key": "ui_festa_winningbonus",
+    "Value": "Combo: {0}"
   }
 ]
