@@ -393,7 +393,7 @@
     "Language": "en",
     "Namespace": "DB_FestaData",
     "Key": "festa_information_friendranking_Extnd21",
-    "Value": "laugh at freinds"
+    "Value": "laugh at friends"
   },
   {
     "Language": "en",
@@ -442,5 +442,11 @@
     "Namespace": "DB_FestaData",
     "Key": "festa_race_rule_Extnd20",
     "Value": "No s\u00E9, tengo reglas de pereza y mono"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_rule_name_09",
+    "Value": "turbo ultra hell"
   }
 ]
