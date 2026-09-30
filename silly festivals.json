@@ -466,5 +466,53 @@
     "Namespace": "Common_Festa",
     "Key": "ui_festa_winningbonus",
     "Value": "Combo: {0}"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_friendranking_Extnd39",
+    "Value": "teto\u0027s rankings"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_other_reward_Extnd10",
+    "Value": "we are doing back to the perfect charge build with this one"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "eventinfo_Extnd39_01_title",
+    "Value": "Deja Miku"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_total_result_Extnd39",
+    "Value": "Hatsune Miku 2 Results"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_worldranking_Extnd39",
+    "Value": "miku\u0027s rankings"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_other_reward_Extnd39",
+    "Value": "we are going back to the perfect charge build with this one"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_race_rule_Extnd39",
+    "Value": "begren-Miku"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_point_reward_Extnd39",
+    "Value": "WAIT ITS NOT JUST A RERUN"
   }
 ]
