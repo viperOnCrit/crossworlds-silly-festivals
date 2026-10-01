@@ -514,5 +514,17 @@
     "Namespace": "DB_FestaData",
     "Key": "festa_point_reward_Extnd39",
     "Value": "WAIT ITS NOT JUST A RERUN"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "news_rule_supplement_collision",
+    "Value": "OH GOD WHY IS THERE SO MANY TRUCK WARNINGS"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "eventinfo_status_before",
+    "Value": "soon TM"
   }
 ]
