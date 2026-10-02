@@ -526,5 +526,11 @@
     "Namespace": "DB_News",
     "Key": "eventinfo_status_before",
     "Value": "soon TM"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaBonus",
+    "Key": "festa_rule_name_15",
+    "Value": "bergentruck"
   }
 ]
