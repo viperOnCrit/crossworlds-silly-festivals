@@ -532,5 +532,35 @@
     "Namespace": "DB_FestaBonus",
     "Key": "festa_rule_name_15",
     "Value": "bergentruck"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_friendranking_Extnd07",
+    "Value": "the avatar gang"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_worldranking_Extnd07",
+    "Value": "order of the whie lotus"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_point_reward_Extnd07",
+    "Value": "ang\u0027s pass"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_race_rule_Extnd07",
+    "Value": "funshei type shit"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_total_result_Extnd07",
+    "Value": "hey roku is dead now"
   }
 ]
