@@ -543,7 +543,7 @@
     "Language": "en",
     "Namespace": "DB_FestaData",
     "Key": "festa_information_worldranking_Extnd07",
-    "Value": "order of the whie lotus"
+    "Value": "order of the white lotus"
   },
   {
     "Language": "en",
@@ -562,5 +562,11 @@
     "Namespace": "DB_FestaData",
     "Key": "festa_total_result_Extnd07",
     "Value": "hey roku is dead now"
+  },
+  {
+    "Language": "en",
+    "Namespace": "Common_Festa",
+    "Key": "ui_festa_bonus_travelring",
+    "Value": "we are going to gamestop!"
   }
 ]
