@@ -568,5 +568,59 @@
     "Namespace": "Common_Festa",
     "Key": "ui_festa_bonus_travelring",
     "Value": "we are going to gamestop!"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_News",
+    "Key": "eventinfo_Extnd25_title",
+    "Value": "HOLLY SHIT GODZILLA"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_race_rule_Extnd25",
+    "Value": "Godzilla forced me to make these Rules"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_point_reward_Extnd25",
+    "Value": "kaigu pass"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_worldranking_wins_Extnd25",
+    "Value": "Godzilla\u0027s worst enemies"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_friendranking_Extnd25",
+    "Value": "Godzilla\u0027s buddies"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_other_reward_02_Extnd25",
+    "Value": "imagine a Godzilla roar here"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_worldranking_Extnd25",
+    "Value": "Ruler\u0027s of Bass Island"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_friendranking_wins_Extnd25",
+    "Value": "Godzilla\u0027s hard caries"
+  },
+  {
+    "Language": "en",
+    "Namespace": "DB_FestaData",
+    "Key": "festa_information_other_reward_Extnd25",
+    "Value": "Godzilla\u0027s rewards"
   }
 ]
