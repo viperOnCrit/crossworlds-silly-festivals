@@ -622,5 +622,17 @@
     "Namespace": "DB_FestaData",
     "Key": "festa_information_other_reward_Extnd25",
     "Value": "Godzilla\u0027s rewards"
+  },
+  {
+    "Language": "en",
+    "Namespace": "S2_Common_Festa",
+    "Key": "festa_rivalteam_cutin",
+    "Value": "THE AI IS TAKING OVER"
+  },
+  {
+    "Language": "en",
+    "Namespace": "S2_Common_Festa",
+    "Key": "ui_festa_bonus_rival",
+    "Value": "beat the AI slop"
   }
 ]
